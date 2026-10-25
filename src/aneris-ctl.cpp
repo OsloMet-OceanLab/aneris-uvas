@@ -117,7 +117,7 @@ void printHelp(char *pName)
 	printf("5\tTurn wipers on\n");
 	printf("6\tTurn wipers off\n");
 	printf("7\tTurn porpoise on\n");
-	printf("8\tTurn wipers off\n");
+	printf("8\tTurn porpoise off\n");
 	printf("9\tClear log file\n");
 	printf("10\tStart web server\n");
 	printf("11\tTerminate web server\n");
